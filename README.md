@@ -1,0 +1,5 @@
+javascript-mapty-webapp
+Exercise workout tracking web app built with JavaScript.
+Project built as part of the Udemy course: The Complete JavaScript Course 2021: From Zero to Expert! taught by Jonas Schmedtmann.
+You can interact with the application here: https://github.com/joeywhalen/javascript-mapty-webapp
+Javascript interactivity includes: adding and tracking of running and cycling exercises on a map UI.  View workouts on a list as well as the map.  Clicking on a workout in the list causes the map to show that workout.  Local storage maintains workout data after browser window closes.
